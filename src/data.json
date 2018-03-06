@@ -1,0 +1,250 @@
+{
+    "posts": [
+        {
+            "name": "Post",
+            "date": "02/11/2017"
+        }
+    ],
+    "profile": {
+        "name": "Norman Argiolas",
+        "email": "normanargiolasgmail.com",
+        "image": "https://avatars2.githubusercontent.com/u/12385439?s=460",
+        "width": 150
+    },
+    "projects": [
+        {
+            "name": "norworking1"
+        },
+        {
+            "name": "norworking2"
+        }
+    ],
+    "socials": [
+        {
+            "name": "Facebook",
+            "username": "normanargiolas"
+        },
+        {
+            "name": "Github",
+            "username": "normanargiolas"
+        },
+        {
+            "name": "Twitter",
+            "username": "normanargiolas"
+        },
+        {
+            "name": "LinkedIn",
+            "username": "in/normanargiolas"
+        }
+    ],
+    "info": {
+        "data": [
+            {
+                "name": "Date of birth",
+                "info": "18/10/1981"
+            },
+            {
+                "name": "Citizenship",
+                "info": "Italian"
+            },
+            {
+                "name": "Languages",
+                "info": "English, Italian"
+            },
+            {
+                "name": "Education",
+                "info": "Bachelor's Degree"
+            },
+            {
+                "name": "Course",
+                "info": "Electrical & Electronic Engineering"
+            },
+            {
+                "name": "Profession",
+                "info": "Software Engineer & Forensics Analyst"
+            }
+        ],
+        "quote": {
+            "content": "content",
+            "footer": "footer",
+            "author": "author"
+        }
+    },
+    "skills": [
+        {
+            "color": "#4285f4",
+            "list": [
+                {
+                    "name": "Spring",
+                    "capacity": "80%"
+                },
+                {
+                    "name": "Odoo",
+                    "capacity": "80%"
+                },
+                {
+                    "name": "Grails",
+                    "capacity": "60%"
+                },
+                {
+                    "name": "Griffon",
+                    "capacity": "65%"
+                }
+            ]
+        },
+        {
+            "color": "#EA4335",
+            "list": [
+                {
+                    "name": "Java",
+                    "capacity": "85%"
+                },
+                {
+                    "name": "Groovy",
+                    "capacity": "65%"
+                },
+                {
+                    "name": "Python",
+                    "capacity": "60%"
+                },
+                {
+                    "name": "PHP",
+                    "capacity": "25%"
+                },
+                {
+                    "name": "C",
+                    "capacity": "75%"
+                },
+                {
+                    "name": "C++",
+                    "capacity": "70%"
+                }
+            ]
+        },
+        {
+            "color": "#FBBC05",
+            "list": [
+                {
+                    "name": "Ethereum",
+                    "capacity": "70%"
+                },
+                {
+                    "name": "Geth",
+                    "capacity": "75%"
+                },
+                {
+                    "name": "Solidity",
+                    "capacity": "70%"
+                },
+                {
+                    "name": "Web3.js",
+                    "capacity": "85%"
+                },
+                {
+                    "name": "Embark",
+                    "capacity": "80%"
+                },
+                {
+                    "name": "Truffle",
+                    "capacity": "80%"
+                },
+                {
+                    "name": "Fabric",
+                    "capacity": "60%"
+                },
+                {
+                    "name": "IPFS",
+                    "capacity": "65%"
+                }
+            ]
+        },
+        {
+            "color": "#4285F4",
+            "list": [
+                {
+                    "name": "Maven",
+                    "capacity": "60%"
+                },
+                {
+                    "name": "Gradle",
+                    "capacity": "60%"
+                }
+            ]
+        },
+        {
+            "color": "#40AD5D",
+            "list": [
+                {
+                    "name": "Git",
+                    "capacity": "85%"
+                }
+            ]
+        },
+        {
+            "color": "#EA4335",
+            "list": [
+                {
+                    "name": "Bash",
+                    "capacity": "65%"
+                }
+            ]
+        },
+        {
+            "color": "#34A853",
+            "list": [
+                {
+                    "name": "JavaScript",
+                    "capacity": "55%"
+                },
+                {
+                    "name": "TypeScript",
+                    "capacity": "50%"
+                },
+                {
+                    "name": "HTML5",
+                    "capacity": "60%"
+                },
+                {
+                    "name": "CSS3",
+                    "capacity": "65%"
+                },
+                {
+                    "name": "Bootstrap",
+                    "capacity": "70%"
+                },
+                {
+                    "name": "Material Design",
+                    "capacity": "60%"
+                },
+                {
+                    "name": "JQuery",
+                    "capacity": "75%"
+                },
+                {
+                    "name": "JQuery Ui",
+                    "capacity": "65%"
+                },
+                {
+                    "name": "AngularJS",
+                    "capacity": "50%"
+                },
+                {
+                    "name": "Angular",
+                    "capacity": "50%"
+                },
+                {
+                    "name": "Node",
+                    "capacity": "50%"
+                },
+                {
+                    "name": "Ionic",
+                    "capacity": "50%"
+                },
+                {
+                    "name": "Electron",
+                    "capacity": "50%"
+                }
+            ]
+        }
+    ]
+}
